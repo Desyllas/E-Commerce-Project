@@ -26,7 +26,7 @@ JWT-based authentication and role-based authorization are implemented for secure
 - Exception handling with custom error responses  
 - Interactive API documentation with **Swagger UI**
 
-##API Documentation
+## API Documentation
 Interactive API documentation is available via Swagger UI:
 http://localhost:8080/swagger-ui.html
 
@@ -39,7 +39,7 @@ http://localhost:8080/swagger-ui.html
 - Maven 3.8+  
 - (Optional) H2 or any relational database  
 
-##Run the application
+## Run the application
 mvn spring-boot:run
 
 The API will be available at: http://localhost:8080
